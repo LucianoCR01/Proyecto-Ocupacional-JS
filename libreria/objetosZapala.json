@@ -1,0 +1,522 @@
+[
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.23",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.24",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.25",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.26",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.49",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.51",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.52",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.53",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.54",
+        "tecnologia":"pmp100",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.57",
+        "tecnologia":"ePMP",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.58",
+        "tecnologia":"ePMP",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.59",
+        "tecnologia":"ePMP",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.61",
+        "tecnologia":"ePMP",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.65",
+        "tecnologia":"ePMP",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.66",
+        "tecnologia":"ePMP",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.67",
+        "tecnologia":"ePMP",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Sur",
+        "AP":"10.24.128.68",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.122",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.123",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.124",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.125",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.127",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.128",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.129",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.133",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.134",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.135",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.157",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.158",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Mega",
+        "AP":"10.24.128.159",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.221",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.222",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.223",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.224",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.225",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.226",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.242",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.243",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.244",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.245",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.246",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.247",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.217",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.218",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.219",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.231",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Radio Union",
+        "AP":"10.24.128.232",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Iglesia",
+        "AP":"10.24.128.62",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Iglesia",
+        "AP":"10.24.128.63",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Iglesia",
+        "AP":"10.24.128.64",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Iglesia",
+        "AP":"10.24.128.70",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Iglesia",
+        "AP":"10.24.128.75",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Hospital",
+        "AP":"10.24.129.15",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Hospital",
+        "AP":"10.24.129.16",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Hospital",
+        "AP":"10.24.129.165",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Alto",
+        "AP":"10.24.128.164",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Alto",
+        "AP":"10.24.128.165",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Alto",
+        "AP":"10.24.128.166",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Alto",
+        "AP":"10.24.128.167",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Alto",
+        "AP":"10.24.128.168",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"FM Alto",
+        "AP":"10.24.128.169",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Barrio Policial",
+        "AP":"10.24.128.117",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Barrio Policial",
+        "AP":"10.24.128.118",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Barrio Policial",
+        "AP":"10.24.128.119",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    },
+    {
+        "nodo":"Barrio Policial",
+        "AP":"10.24.128.120",
+        "tecnologia":"ePMP3000",
+        "registrados":"0",
+        "disponibilidad":"close",
+        "service":"0"
+    }
+]

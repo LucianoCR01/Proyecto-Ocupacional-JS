@@ -1,0 +1,75 @@
+*{
+    margin: 1px;
+    padding: 1px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.logotipo{
+    margin-bottom: 20px;
+}
+.general{
+    height: 620px;
+    background: linear-gradient(90deg, rgb(238, 76, 76) 23%, rgb(104, 39, 39) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.administracion{
+    height: 620px;
+    background: linear-gradient(90deg, rgb(238, 76, 76) 23%, rgb(104, 39, 39) 100%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.enlaces{
+    list-style-type: none;
+    margin-top: 20px;
+    display: flex;
+    font-size: 20px;
+}
+
+.estiloEnlace:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.bodyComodoro{
+    height: 620px;
+    background: linear-gradient(90deg, rgb(238, 76, 76) 23%, rgb(104, 39, 39) 100%);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 20px 25px;
+    box-shadow: 0 5px 10px;
+    border-radius: 10%;
+}
+form .title{
+    color: black;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 30px; 
+}
+form label{
+    margin-bottom: 35px;
+}
+form label .fa-solid{
+    font-size: 20px;
+    margin-right: 10px;
+}
+form label input{
+    outline: none;
+    border: none;
+    color: black;
+    border-bottom: solid 1px black;
+}
+form label input::placeholder{
+    color: rgb(165, 163, 163);
+}
+.ocultar{
+    display: none;
+}
